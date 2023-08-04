@@ -1,0 +1,4 @@
+
+[submodule "tvm_rpc/nativelib/src/main/cpp/android_tvm/tvm"]
+	path = tvm_rpc/nativelib/src/main/cpp/android_tvm/tvm
+	url = https://github.com/apache/tvm.git
